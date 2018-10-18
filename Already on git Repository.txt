@@ -1,11 +1,9 @@
 
 
-Redux-A CRUD Example
 
+Redux-A CRUD Example
 https://codeburst.io/redux-a-crud-example-abb834d763c9
 
 https://github.com/pratik-chakravorty/CRUD-with-React-Redux
 
 
-rafael@va
-123'123
